@@ -55,7 +55,7 @@
         font-size: var(--size-lg);
     }
     .hero__title{
-        font-size: var(--size-5xl);
+        font-size: 3rem;
     }
     .hero__description{
         font-size: var(--size-base);
