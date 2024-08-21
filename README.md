@@ -1,13 +1,3 @@
-Name: Dhruv krishna
-
-Company: CODTECH IT SOLUTIONS
-
-ID: CT6FWD651
-
-Domain: FRONTEND DEVELOPMENT
-
-Duration: JUNE 25th,2024 to AUGUST 10th,2024
-
 # Overview of the project 
 
 Home Page: A brief introduction about myself and my professional background.
